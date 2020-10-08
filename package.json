@@ -1,0 +1,23 @@
+{
+  "name": "the-youtube-offshoot",
+  "version": "1.0.0",
+  "description": "something like YouTube, but with a personal touch ;)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/periperidip/the-youtube-offshoot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/periperidip/the-youtube-offshoot/issues"
+  },
+  "homepage": "https://github.com/periperidip/the-youtube-offshoot#readme"
+}
